@@ -1,7 +1,8 @@
 # home_automation_telegram
 Controlling of appliances using Telegram Bot and NodeMCU Wi-Fi module.
 
-There are 3 steps involved to complete the automation/n
+There are 3 steps involved to complete the automation
+
 Step 1 - Creating a Bot
 For this you need to visit bot named "BotFather" on telegram and create your-self a newbot with the command "/newbot". After naming the bot, you will receive a bot-token which you need to replace in the ino code provided. Later on change the SSID, Password in the ino file according to your network.
 
